@@ -86,3 +86,29 @@ You can find detailed analysis and insights in the accompanying POWER BI dashboa
 
 ![Data Engineer Jobs Analysis](https://github.com/hassan848/skill-map-ETL/assets/72468804/40042c0e-19cf-4325-9a46-df66350b2b1f)
 
+## Languages, Tools & Services
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/lambda/" target="_blank">
+    <!-- AWS Lambda logo -->
+    <img src="https://symbols.getvecta.com/stencil_9/36_lambda-function.b2a8536bdb.svg" alt="aws-lambda" width="40" height="40"/>
+  </a>
+  <a href="https://www.snowflake.com/" target="_blank">
+    <!-- Snowflake DB logo -->
+    <img src="https://symbols.getvecta.com/stencil_85/115_snowflake.90bde0225c.svg" alt="snowflake-db" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <!-- Power BI logo -->
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/cloudformation/" target="_blank">
+    <!-- AWS CloudFormation logo -->
+    <img src="https://symbols.getvecta.com/stencil_16/5_aws-cloudformation.14fbb098b1.svg" alt="aws-cloudformation" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/s3/" target="_blank">
+    <!-- AWS S3 logo -->
+    <img src="https://symbols.getvecta.com/stencil_24/7_amazon-s3-bucket.b7a1cbdb89.svg" alt="aws-s3" width="40" height="40"/>
+  </a>
+</p>
