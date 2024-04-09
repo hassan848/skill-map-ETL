@@ -97,7 +97,8 @@ You can find detailed analysis and insights in the accompanying POWER BI dashboa
   </a>
   <a href="https://www.snowflake.com/" target="_blank">
     <!-- Snowflake DB logo -->
-    <img src="https://symbols.getvecta.com/stencil_85/115_snowflake.90bde0225c.svg" alt="snowflake-db" width="40" height="40"/>
+    <img src="/logos/snowflake/snowflake-icon.svg" alt="snowflake-db" width="40" height="40"/>
+<!--     <img id="preview-image" src="/logos/snowflake/snowflake-icon.svg" crossorigin="anonymous" style="border-width: 1px;" width="520" height="520"> -->
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <!-- Power BI logo -->
